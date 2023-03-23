@@ -1,0 +1,20 @@
+! Title: Raven Protection - Ads
+! Updated: 23 March 2023 13:14 GMT0
+! Author: ReduxFlakes
+! Source & Repo: https://github.com/ReduxFlakes/raven-protection
+
+! Amazon
+analytics.s3.amazonaws.com
+
+! Google Ads
+pagead2.googlesyndication.com
+adservice.google.com
+pagead2.googleadservices.com
+afs.googlesyndication.com
+
+! Doubleclick
+stats.g.doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
