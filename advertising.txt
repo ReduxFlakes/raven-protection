@@ -3,13 +3,8 @@
 ! Author: ReduxFlakes
 ! Source & Repo: https://github.com/ReduxFlakes/raven-protection
 
-||analytics.s3.amazonaws.com^
-||pagead2.googlesyndication.com^
-||adservice.google.com^
-||pagead2.googleadservices.com^
-||afs.googlesyndication.com^
-||stats.g.doubleclick.net^
-||ad.doubleclick.net^
-||static.doubleclick.net^
-||m.doubleclick.net^
-||mediavisor.doubleclick.net^
+! Amazon
+||analyticsengine.s3.amazonaws.com
+||analytics.s3.amazonaws.com
+||advice-ads.s3.amazonaws.com
+||advertising-api-eu.amazon.com
