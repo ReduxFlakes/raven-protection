@@ -1,1 +1,41 @@
+! Title: Raven Protection - Tracking
+! Updated: 25 March 2023 18:50
+! Author: ReduxFlakes
+! Source & Repo: https://github.com/ReduxFlakes/raven-protection
 
+! Google Analytics
+||app-measurement.com^
+||click.googleanalytics.com^
+
+! Facebook
+||an.facebook.com^
+
+! Pinterest
+||widgets.pinterest.com^
+
+! TikTok
+||log.byteoversea.com^
+
+! Yandex
+||offerwall.yandex.net^
+
+! Unity
+||auction.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+
+! OEMs
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+||adsfs.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+||grs.hicloud.com^
+||advertising.apple.com^
+||tr.iadsdk.apple.com^
+||iadsdk.apple.com^
+||api-adservices.apple.com^
+||smetrics.samsung.com^
