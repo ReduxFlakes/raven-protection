@@ -4,7 +4,7 @@
 ! Source & Repo: https://github.com/ReduxFlakes/raven-protection
 
 ! Amazon
-||analyticsengine.s3.amazonaws.com
-||analytics.s3.amazonaws.com
-||advice-ads.s3.amazonaws.com
-||advertising-api-eu.amazon.com
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
