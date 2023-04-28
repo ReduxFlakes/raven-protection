@@ -8,3 +8,19 @@
 ||analytics.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
+
+! Twitter
+||static.ads-twitter.com^
+
+! Apple
+||advertising.apple.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||tr.iadsdk.apple.com^
+||metrics.apple.com^
+
+! adcolony.com
+||adc3-launch.adcolony.com^
+||ads30.adcolony.com^
+||events3alt.adcolony.com^
+||wd.adcolony.com^
