@@ -10,6 +10,11 @@
 ! Facebook
 ||an.facebook.com^
 
+! Apple
+||books-analytics-events.apple.com^
+||tr.iadsdk.apple.com^
+||metrics.apple.com^
+
 ! Pinterest
 ||widgets.pinterest.com^
 
