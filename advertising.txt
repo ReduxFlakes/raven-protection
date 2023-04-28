@@ -15,9 +15,6 @@
 ! Apple
 ||advertising.apple.com^
 ||api-adservices.apple.com^
-||books-analytics-events.apple.com^
-||tr.iadsdk.apple.com^
-||metrics.apple.com^
 
 ! adcolony.com
 ||adc3-launch.adcolony.com^
