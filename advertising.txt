@@ -9,6 +9,19 @@
 ||advice-ads.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
 
+! Google
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||afs.googlesyndication.com^
+
+! Doubleclick.net
+||stats.g.doubleclick.net^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+
 ! Twitter
 ||static.ads-twitter.com^
 
