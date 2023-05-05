@@ -5,7 +5,10 @@
 
 ! Google Analytics
 ||app-measurement.com^
+||analytics.google.com^
 ||click.googleanalytics.com^
+||google-analytics.com^
+||ssl.google-analytics.com^
 
 ! Facebook
 ||an.facebook.com^
@@ -21,7 +24,17 @@
 ! TikTok
 ||log.byteoversea.com^
 
+! Yahoo
+||udc.yahoo.com^
+||udcm.yahoo.com^
+||analytics.query.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||log.fc.yahoo.com^
+||gemini.yahoo.com^
+
 ! Yandex
+||appmetrica.yandex.ru^
+||adfstat.yandex.ru^
 ||offerwall.yandex.net^
 
 ! Unity
