@@ -1,7 +1,10 @@
 ! Title: Raven Protection - Tracking
-! Updated:  05 May 2023 13:00
+! Updated:  09 May 2023 09:27
 ! Author: ReduxFlakes
 ! Source & Repo: https://github.com/ReduxFlakes/raven-protection
+
+! Google
+||googletagmanager.com^
 
 ! Google Analytics
 ||app-measurement.com^
@@ -11,6 +14,7 @@
 ||ssl.google-analytics.com^
 
 ! Facebook
+||graph.facebook.com^
 ||an.facebook.com^
 
 ! Apple
@@ -18,13 +22,12 @@
 ||tr.iadsdk.apple.com^
 ||metrics.apple.com^
 
-! Pinterest
-||widgets.pinterest.com^
-
-! TikTok
-||log.byteoversea.com^
+! Microsoft
+||wcpstatic.microsoft.com^
 
 ! Yahoo
+||geo.yahoo.com^
+||opus.analytics.yahoo.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||analytics.query.yahoo.com^
@@ -42,6 +45,21 @@
 ||webview.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
 ||adserver.unityads.unity3d.com^
+
+! Criteo
+||criteo.net^
+
+! Spotify
+||dealer.spotify.com^
+
+! Azure
+||js.monitor.azure.com^
+
+! Pinterest
+||widgets.pinterest.com^
+
+! TikTok
+||log.byteoversea.com^
 
 ! OEMs
 ||iot-eu-logser.realme.com^
