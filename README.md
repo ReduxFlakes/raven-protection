@@ -31,16 +31,17 @@ Raven comes with different lists for different purposes, as of now there's two l
 ### Opera
 
 - **1.** On the adress bar type `opera://settings`
-- **2.** "Privacy & Security" tab
-- **3.** Switch on "Block ads and surf the web up to three times faster" and "Block Trackers"
-- **4.** "Manage lists"
-- **5.** "Custom lists"
-- **6.** On "Block trackers", paste this: `https://raw.githubusercontent.com/ReduxFlakes/raven-protection/main/tracking.txt`
-- **7.** On "Block ads..." paste this:`https://raw.githubusercontent.com/ReduxFlakes/raven-protection/main/advertising.txt`
+- **2.** Go to the **Privacy & Security** tab
+- **3.** Switch on **Block ads and surf the web up to three times faster** and **Block Trackers**
+- **4.** Click on **Manage lists**
+- **5.** In **Custom lists** click in **add**
+- **6.** On "Block trackers", paste `https://raw.githubusercontent.com/ReduxFlakes/raven-protection/main/tracking.txt`
+- **7.** On "Block ads" paste `https://raw.githubusercontent.com/ReduxFlakes/raven-protection/main/advertising.txt`
 
 ## Contribute
 
 Before submiting a patch or fix, make sure to test it and to see if the submit is actually essential and that it works.
 
-- Opera Guide by: [itsNotYin](https://github.com/itsNotYin)
+### Contributions
+- [itsNotYin](https://github.com/itsNotYin)
 
