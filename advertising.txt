@@ -29,8 +29,19 @@
 ||advertising.apple.com^
 ||api-adservices.apple.com^
 
+! Yahoo
+||partnerads.ysm.yahoo.com^
+
+! Yandex
+||offerwall.yandex.net^
+
 ! adcolony.com
 ||adc3-launch.adcolony.com^
 ||ads30.adcolony.com^
 ||events3alt.adcolony.com^
 ||wd.adcolony.com^
+
+! OPPO
+||adsfs.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
