@@ -1,5 +1,5 @@
 ! Title: Raven Protection - Tracking
-! Updated:  11 May 2023 15:11
+! Updated:  11 May 2023 15:38
 ! Author: ReduxFlakes
 ! Source & Repo: https://github.com/ReduxFlakes/raven-protection
 
@@ -13,14 +13,21 @@
 ||google-analytics.com^
 ||ssl.google-analytics.com^
 
-! Facebook
-||graph.facebook.com^
-||an.facebook.com^
-
 ! Apple
 ||books-analytics-events.apple.com^
 ||tr.iadsdk.apple.com^
 ||metrics.apple.com^
+||iadsdk.apple.com^
+||tr.iadsdk.apple.com^
+
+! Facebook
+||graph.facebook.com^
+||an.facebook.com^
+
+! Amazon
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
 
 ! Microsoft
 ||wcpstatic.microsoft.com^
@@ -37,6 +44,7 @@
 ! Yandex
 ||appmetrica.yandex.ru^
 ||metrica.yandex.ru^
+||metrika.yandex.ru^
 ||adfstat.yandex.ru^
 
 ! Unity
@@ -60,14 +68,17 @@
 ! TikTok
 ||log.byteoversea.com^
 
-! OEMs
+! MIUI/Xiaomi
+||tracking.rus.miui.com^
+
+! Realme
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
-||grs.hicloud.com^
-||advertising.apple.com^
-||tr.iadsdk.apple.com^
-||iadsdk.apple.com^
-||api-adservices.apple.com^
+
+! Samsung
 ||smetrics.samsung.com^
+
+! OEM
+||grs.hicloud.com^
