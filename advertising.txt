@@ -36,8 +36,7 @@
 
 ! Yandex
 ||offerwall.yandex.net^
-||advertising.yahoo.com^
-||advertising.yahoo.ru^
+||advertising.yandex.ru^
 
 ! adcolony.com
 ||adc3-launch.adcolony.com^
