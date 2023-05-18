@@ -31,14 +31,13 @@
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||analytics.query.yahoo.com^
-||partnerads.ysm.yahoo.com^
 ||log.fc.yahoo.com^
 ||gemini.yahoo.com^
 
 ! Yandex
 ||appmetrica.yandex.ru^
+||metrica.yandex.ru^
 ||adfstat.yandex.ru^
-||offerwall.yandex.net^
 
 ! Unity
 ||auction.unityads.unity3d.com^
@@ -66,9 +65,6 @@
 ||iot-logser.realme.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
-||adsfs.oppomobile.com^
-||ck.ads.oppomobile.com^
-||data.ads.oppomobile.com^
 ||grs.hicloud.com^
 ||advertising.apple.com^
 ||tr.iadsdk.apple.com^
