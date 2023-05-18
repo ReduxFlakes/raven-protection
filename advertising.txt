@@ -1,19 +1,19 @@
 ! Title: Raven Protection - Ads
-! Updated: 11 May 2023 15:12
+! Updated: 11 May 2023 15:42
 ! Author: ReduxFlakes
 ! Source & Repo: https://github.com/ReduxFlakes/raven-protection
-
-! Amazon
-||analyticsengine.s3.amazonaws.com^
-||analytics.s3.amazonaws.com^
-||advice-ads.s3.amazonaws.com^
-||advertising-api-eu.amazon.com^
 
 ! Google
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
+
+! Amazon
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
 
 ! Doubleclick.net
 ||stats.g.doubleclick.net^
@@ -31,9 +31,13 @@
 
 ! Yahoo
 ||partnerads.ysm.yahoo.com^
+||adfstat.yandex.ru^
+||advertising.yahoo.com^
 
 ! Yandex
 ||offerwall.yandex.net^
+||advertising.yahoo.com^
+||advertising.yahoo.ru^
 
 ! adcolony.com
 ||adc3-launch.adcolony.com^
