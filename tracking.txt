@@ -27,7 +27,6 @@
 ! Amazon
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
-||advertising-api-eu.amazon.com^
 
 ! Microsoft
 ||wcpstatic.microsoft.com^
@@ -45,7 +44,6 @@
 ||appmetrica.yandex.ru^
 ||metrica.yandex.ru^
 ||metrika.yandex.ru^
-||adfstat.yandex.ru^
 
 ! Unity
 ||auction.unityads.unity3d.com^
