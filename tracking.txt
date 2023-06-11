@@ -1,5 +1,5 @@
 ! Title: Raven Protection - Tracking
-! Updated:  11 June 2023 22:19
+! Updated:  11 June 2023 22:22
 ! Author: ReduxFlakes
 ! Source & Repo: https://github.com/ReduxFlakes/raven-protection
 
@@ -32,7 +32,9 @@
 ||wcpstatic.microsoft.com^
 
 ! Discord
-||canary.discord.com/api/v9/science/*^
+||discord.com/api/v*/science
+||discord.com/api/v*/science/*
+||discord.com/api/v*/channels/*/typing
 
 ! Yahoo
 ||geo.yahoo.com^
