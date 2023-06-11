@@ -31,6 +31,9 @@
 ! Microsoft
 ||wcpstatic.microsoft.com^
 
+! Discord
+||canary.discord.com/api/v9/science/*^
+
 ! Yahoo
 ||geo.yahoo.com^
 ||opus.analytics.yahoo.com^
