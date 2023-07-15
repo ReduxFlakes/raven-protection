@@ -1,10 +1,14 @@
+<img src="logo.png" align="left" height="120px" width="120px">
+
 # Raven Protection
+
+![GitHub Commit Community](https://img.shields.io/github/commit-activity/m/ReduxFlakes/raven-protection)
 
 Ads and tracking filters especially made for Opera and Vivaldi for better tracking and ad protection on both desktop and mobile (it can also be used with other browsers/extensions).
 
 **Table of Contents**
 - [Available Lists](#available-lists)
-- [Adding Raven](#adding-raven)
+- [Using Raven](#using-raven)
   - [Vivaldi Desktop](#vivaldi-desktop)
   - [Opera](#opera)
 - [Contribute](#contribute)
@@ -15,9 +19,9 @@ Ads and tracking filters especially made for Opera and Vivaldi for better tracki
 Raven comes with different lists for different purposes, as of now there's two list types:
 
 - [Raven Protection - Ads](/advertising.txt) - Block advertising
-- [Raven Protection - Tracking](/tracking.txt) - Block trackers and loggers
+- [Raven Protection - Tracking](/tracking.txt) - Block trackers, analytics, and loggers
 
-## Adding Raven
+## Using Raven
 
 ### Vivaldi Desktop
 
