@@ -1,5 +1,5 @@
 ! Title: Raven Protection - Tracking
-! Updated:  15 July 2023 19:06
+! Updated:  15 July 2023 19:17
 ! Author: ReduxFlakes
 ! Source & Repo: https://github.com/ReduxFlakes/raven-protection
 
@@ -11,6 +11,9 @@
 ||click.googleanalytics.com^
 ||google-analytics.com^
 ||ssl.google-analytics.com^
+! Google Syndication
+||pagead2.googlesyndication.com^
+||afs.googlesyndication.com^
 ! Apple
 ||books-analytics-events.apple.com^
 ||tr.iadsdk.apple.com^
