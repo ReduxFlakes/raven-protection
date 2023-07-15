@@ -1,49 +1,38 @@
 ! Title: Raven Protection - Ads
-! Updated: 11 May 2023 15:42
+! Updated: 15 July 2023 19:15
 ! Author: ReduxFlakes
 ! Source & Repo: https://github.com/ReduxFlakes/raven-protection
 
 ! Google
-||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
-||afs.googlesyndication.com^
-
 ! Amazon
-||analyticsengine.s3.amazonaws.com^
-||analytics.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
-
+||amazon-adsystem.com^
 ! Doubleclick.net
 ||stats.g.doubleclick.net^
 ||ad.doubleclick.net^
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
-
 ! Twitter
 ||static.ads-twitter.com^
-
 ! Apple
 ||advertising.apple.com^
 ||api-adservices.apple.com^
-
 ! Yahoo
 ||partnerads.ysm.yahoo.com^
 ||adfstat.yandex.ru^
 ||advertising.yahoo.com^
-
 ! Yandex
 ||offerwall.yandex.net^
 ||advertising.yandex.ru^
-
 ! adcolony.com
 ||adc3-launch.adcolony.com^
 ||ads30.adcolony.com^
 ||events3alt.adcolony.com^
 ||wd.adcolony.com^
-
 ! OPPO
 ||adsfs.oppomobile.com^
 ||ck.ads.oppomobile.com^
