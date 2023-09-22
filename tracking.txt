@@ -1,5 +1,5 @@
 ! Title: Raven Protection - Tracking
-! Updated:  15 July 2023 19:17
+! Updated:  22 September 2023 22:55
 ! Author: ReduxFlakes
 ! Source & Repo: https://github.com/ReduxFlakes/raven-protection
 
@@ -64,6 +64,8 @@
 ||business-api.tiktok.com^
 ! OneTrust
 ||geolocation.onetrust.com^
+! Useless Widgets
+||widget.trustpilot.com^
 ! MIUI/Xiaomi
 ||tracking.rus.miui.com
 ! Realme
@@ -75,3 +77,5 @@
 ||smetrics.samsung.com^
 ! OEM
 ||grs.hicloud.com^
+! Other Metrics
+||metrics.quillbot.com^
