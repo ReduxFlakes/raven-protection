@@ -1,10 +1,12 @@
 <img src="logo.png" align="left" height="120px" width="120px">
 
-# Raven Protection
+# Raven Protection (moved)
 
 ![GitHub Commit Community](https://img.shields.io/github/commit-activity/m/ReduxFlakes/raven-protection)
 
 Ads and tracking filters especially made for Opera and Vivaldi for better tracking and ad protection on both desktop and mobile (it can also be used with other browsers/extensions).
+
+# This project has been moved to codeberg at: [https://codeberg.org/reduxflakes/raven-protection](https://codeberg.org/reduxflakes/raven-protection)
 
 **Table of Contents**
 - [Available Lists](#available-lists)
